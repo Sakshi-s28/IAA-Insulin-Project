@@ -1,1 +1,0 @@
-"${SCHRODINGER}/utilities/multisim" -JOBNAME iaa_setup -m iaa_setup.msj iaa_setup.mae -o iaa_setup-out.cms -HOST localhost -TMPLAUNCHDIR
